@@ -14,7 +14,7 @@
 ### <a href="https://github.com/anhyunji494/pet-project">PetWave
 기간 : 2024.03.22 ~ 2024.04.05
 <br/>
-주제 : 반려동물 정보공유 SNS
+주제 : 반려인을 위한 SNS
 <br/>
 사용기술 : React, SpringBoot
 
